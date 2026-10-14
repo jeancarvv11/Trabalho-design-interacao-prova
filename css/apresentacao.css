@@ -1,0 +1,18 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: var(--espacamento-grande);
+    display: flex;
+    flex-direction: column;
+    gap: var(--espacamento-medio);
+}
+
+main h2 {
+    color: var(--cor-fundo-destaque);
+}
+
+main img {
+    border-radius: var(--borda-raio);
+    align-self: center;
+    max-width: 100%;
+}
