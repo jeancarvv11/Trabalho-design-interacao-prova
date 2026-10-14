@@ -1,0 +1,18 @@
+:root {
+    --cor-fundo: #f4f4f4;
+    --cor-fundo-destaque: #1c1c1c;
+    --cor-texto: #1a1a1a;
+    --cor-texto-claro: #f4f4f4;
+    --cor-borda: #cccccc;
+    --cor-hover: #555555;
+
+    --fonte-principal: 'Segoe UI', Arial, sans-serif;
+    --tamanho-fonte-base: 16px;
+    --tamanho-titulo: 2rem;
+
+    --espacamento-pequeno: 0.5rem;
+    --espacamento-medio: 1rem;
+    --espacamento-grande: 2rem;
+
+    --borda-raio: 8px;
+}
